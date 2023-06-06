@@ -1,0 +1,25 @@
+{
+    "title": "My Albums", 
+    "albums": [
+    	{
+    		"title": "A Night in Tunisia", 
+    		"summary": "A Night in Tunisia is a studio album by Art Blakey and the Jazz Messengers, released in May 1961", 
+    		"artworkName": "tunisia"
+    	},
+    	{
+    		"title": "Lee Morgan Sextet", 
+    		"summary": "Lee Morgan Sextet (also known as Lee Morgan Volume 2: Sextet) is an album by jazz trumpeter Lee Morgan released on the Blue Note label in 1957", 
+    		"artworkName": "morgan"
+    	},
+    	{
+    		"title": "Finger Poppin' with The Horace Silver Quintet", 
+    		"summary": "Finger Poppin' with the Horace Silver Quintet is an album by jazz pianist Horace Silver released on the Blue Note label in 1959", 
+    		"artworkName": "horace"
+    	},
+    	{
+    		"title": "Somethin' Else", 
+    		"summary": "Somethin' Else is a jazz album by alto saxophonist Julian \"Cannonball\" Adderley, his only album on the Blue Note label, recorded and released in 1958", 
+    		"artworkName": "something"
+    	},
+    ]
+}

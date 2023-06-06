@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "By F. Scott Fitzgerald",
+        "summary": "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald.",
+        "coverImage": "gatsby"
+    }, 
+    {
+    	"title": "Little Women", 
+    	"author": "By Louisa May Alcott", 
+    	"summary": "Little Women is a coming-of-age novel written by American novelist Louisa May Alcott, originally published in two volumes in 1868 and 1869 at the request of her publisher.", 
+    	"coverImage": "women"
+    }, 
+    {
+    	"title": "Not Without Laughter", 
+    	"author": "By Langston Hughes", 
+    	"summary": "Not Without Laughter portrays African-American life in Kansas in the 1910s, focusing on the effects of class and religion on the community.", 
+    	"coverImage": "hughes"
+    }, 
+    {
+    	"title": "Rashomon and Seventeen Other Stories", 
+    	"author": "By Ryunosuke Akutagawa", 
+    	"summary": "Often referred to as the \"Father of the Japanese short story,\" Ryūnosuke Akutagawa lived only to be thirty-five, his life prematurely ended by his suicide.", 
+    	"coverImage": "rashomon"
+    }
+]

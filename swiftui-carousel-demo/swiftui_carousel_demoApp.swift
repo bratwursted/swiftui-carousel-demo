@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct swiftui_carousel_demoApp: App {
+struct CarouselsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

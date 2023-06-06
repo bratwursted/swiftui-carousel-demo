@@ -18,6 +18,7 @@
 		8D7F5FF02A2F4CD200CC1ECA /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7F5FEF2A2F4CD200CC1ECA /* Book.swift */; };
 		8D7F5FF22A2F4CDA00CC1ECA /* BookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7F5FF12A2F4CDA00CC1ECA /* BookView.swift */; };
 		8D7F5FF42A2F4CEB00CC1ECA /* Collection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7F5FF32A2F4CEB00CC1ECA /* Collection.swift */; };
+		8D7F5FF62A2F4DAF00CC1ECA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8D7F5FF52A2F4DAF00CC1ECA /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		8D7F5FEF2A2F4CD200CC1ECA /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 		8D7F5FF12A2F4CDA00CC1ECA /* BookView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookView.swift; sourceTree = "<group>"; };
 		8D7F5FF32A2F4CEB00CC1ECA /* Collection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Collection.swift; sourceTree = "<group>"; };
+		8D7F5FF52A2F4DAF00CC1ECA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 		8D7F5FCB2A2F48C600CC1ECA = {
 			isa = PBXGroup;
 			children = (
+				8D7F5FF52A2F4DAF00CC1ECA /* README.md */,
 				8D7F5FD62A2F48C600CC1ECA /* swiftui-carousel-demo */,
 				8D7F5FD52A2F48C600CC1ECA /* Products */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				8D7F5FE72A2F4C3F00CC1ECA /* books.json in Resources */,
 				8D7F5FDF2A2F48C700CC1ECA /* Preview Assets.xcassets in Resources */,
+				8D7F5FF62A2F4DAF00CC1ECA /* README.md in Resources */,
 				8D7F5FDC2A2F48C700CC1ECA /* Assets.xcassets in Resources */,
 				8D7F5FE82A2F4C3F00CC1ECA /* content.json in Resources */,
 			);

@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import DeveloperToolsSupport
 
 struct Book: Decodable, Equatable, Identifiable {
     var id: String {

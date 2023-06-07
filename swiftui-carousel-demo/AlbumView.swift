@@ -15,7 +15,7 @@ struct AlbumView: View {
             HStack(alignment: .top, spacing: 10) {
                 Image(album.artworkName)
                     .resizable()
-                    .frame(width: 80, height: 80)
+                    .frame(width: 90, height: 90)
 
                 VStack(alignment: .leading, spacing: 6) {
                     Text(album.title)

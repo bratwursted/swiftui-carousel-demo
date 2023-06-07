@@ -25,10 +25,15 @@ struct ContentView: View {
                                     HStack(alignment: .top) {
                                         ForEach(collection.albums) { album in
                                             AlbumView(album: album)
-                                                .frame(width: UIScreen.main.bounds.width * 0.85)
+                                                .containerRelativeFrame(.horizontal, alignment: .top) { length, _ in
+                                                    length * 0.8
+                                                }
                                         }
                                     }
+                                    .scrollTargetLayout()
                                 }
+                                .scrollTargetBehavior(.viewAligned)
+                                .scrollIndicators(.hidden)
                             }
                         } else {
                             HStack {
